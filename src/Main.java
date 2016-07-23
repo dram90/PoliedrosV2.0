@@ -14,7 +14,10 @@ public class Main {
     static ListMultimap<String, Poliedro> tipoPoliedroMultiMap = ArrayListMultimap.create();
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("====================================");
+        System.out.println("Bienvenidos a la APP de poliedros");
+        System.out.println("====================================");
+
 
         Scanner sc = new Scanner(System.in);
 
